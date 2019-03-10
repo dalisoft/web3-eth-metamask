@@ -1,0 +1,15 @@
+$primary: #61dafb;
+
+@import "~bulma/bulma.sass"; // alternatively, select which parts to include.
+/* @import "~rbx/dist/rbx.sass"; */
+
+.navbar {
+    &__logo {
+        background-image: url('https://raw.githubusercontent.com/MetaMask/brand-resources/master/SVG/metamask-fox-wordmark-stacked.svg?sanitize=true');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        width: 112px;
+        height: 56px;
+    }
+}
