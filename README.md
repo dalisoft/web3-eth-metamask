@@ -2,7 +2,7 @@
 
 Minimal example of message signing with web3 + metamask api
 
-## Credindials
+## Credentials
 
 For testing purpose the credintials without server (fake promise response) and data is
 
