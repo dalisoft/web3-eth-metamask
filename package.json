@@ -21,7 +21,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "eslint-plugin-react": "^7.12.4",
     "next": "^8.0.3",
-    "node-sass": "^4.11.0"
+    "node-sass": "^4.x"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.15",
